@@ -1,0 +1,16 @@
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\bin\Debug\net5.0\Dio.Series.exe
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\bin\Debug\net5.0\Dio.Series.deps.json
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.json
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\bin\Debug\net5.0\Dio.Series.runtimeconfig.dev.json
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\bin\Debug\net5.0\Dio.Series.dll
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\bin\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\bin\Debug\net5.0\Dio.Series.pdb
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.AssemblyReference.cache
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\obj\Debug\net5.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\obj\Debug\net5.0\Dio.Series.AssemblyInfo.cs
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\obj\Debug\net5.0\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\obj\Debug\net5.0\Dio.Series.dll
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\obj\Debug\net5.0\ref\Dio.Series.dll
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\obj\Debug\net5.0\Dio.Series.pdb
+C:\Users\cieli\OneDrive\Aulas csharp 2022\Dio\Dio.Series\obj\Debug\net5.0\Dio.Series.genruntimeconfig.cache
